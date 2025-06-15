@@ -1,0 +1,9 @@
+<resources>
+    <string name="calendar_image_desc">October Calendar Background</string>
+    <string name="no28_desc">Day 28</string>
+    <string name="no29_desc">Day 29</string>
+    <string name="no30_desc">Day 30</string>
+    <string name="no31_desc">Day 31</string>
+    <string name="popup_message_desc">Popup message overlay</string>
+    <string name="popup_image_desc" />
+</resources>
